@@ -1,0 +1,31 @@
+
+body {
+	text-align: center;
+}
+a {
+	color:#FF0000;
+}
+body {
+  background-color: #FFF; /* Cor de fundo padrão */
+  color: #000; /* Cor do texto padrão */
+}
+
+.dark-mode {
+  background-color: #222; /* Cor de fundo do tema escuro */
+  color: #fff; /* Cor do texto do tema escuro */
+}
+body {
+	text-align: center;
+}
+a {
+	color:#FF0000;
+}
+body {
+  background-color: #FFF; /* Cor de fundo padrão */
+  color: #000; /* Cor do texto padrão */
+}
+
+.dark-mode {
+  background-color: #222; /* Cor de fundo do tema escuro */
+  color: #fff; /* Cor do texto do tema escuro */
+}
